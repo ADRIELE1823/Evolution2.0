@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./painel.component.css']
 })
 export class PainelComponent {
-  sectionContent: string = "<h1>Gestão Academica</h1>";
+  
 }
